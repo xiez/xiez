@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Golang and Kubernetes
-- 💬 Ask me about anything related to Python/Django/Tornado or Angular/React/Docker/Emacs
-- 📫 How to reach me: [@xiez1989](https://twitter.com/xiez1989) or xiez1989 AT gmail DOT com
+- 🌱 I’m currently learning SICP (https://github.com/xiez/SICP-exercises)
+- 💬 Ask me about anything related to Python/Django/Flask or Javascript/ReactJS/Docker/Emacs
+- 📫 How to reach me: xiez1989 AT gmail DOT com
 - ⚡ Fun fact: I :heart: :dog:s
 
 [![Xiez's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiez&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
